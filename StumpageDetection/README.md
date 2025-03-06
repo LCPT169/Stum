@@ -271,14 +271,4 @@ docker run -d -p 8080:8080 --name stumpage-app stumpage-detection
    - 确认源文件格式是否符合要求
    - 查看日志获取详细错误信息
 
-## 贡献指南
 
-1. Fork 项目仓库
-2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 创建 Pull Request
-
-## 许可证
-
-[MIT License](LICENSE)

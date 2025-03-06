@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="252px" height="294px" viewBox="0 0 252 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>404 Error</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#409EFF" offset="0%"></stop>
+            <stop stop-color="#1890FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="404" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 0.000000)">
+            <path d="M0,200 L252,200 L252,218 C252,228.493 243.493,237 233,237 L19,237 C8.507,237 0,228.493 0,218 L0,200 Z" id="Rectangle" fill="#E6F7FF"></path>
+            <path d="M42,50 L210,50 L210,200 L42,200 L42,50 Z" id="Rectangle" fill="#F0F0F0"></path>
+            <path d="M84,0 L168,0 C189.539,0 207,17.461 207,39 L207,50 L45,50 L45,39 C45,17.461 62.461,0 84,0 Z" id="Rectangle" fill="#E6F7FF"></path>
+            <path d="M0,237 L252,237 L252,255 C252,265.493 243.493,274 233,274 L19,274 C8.507,274 0,265.493 0,255 L0,237 Z" id="Rectangle" fill="#1890FF" opacity="0.3"></path>
+            <path d="M126,274 L126,294 L106,274 L126,274 Z" id="Triangle" fill="#1890FF" opacity="0.3"></path>
+            <text id="404" font-family="Arial-BoldMT, Arial" font-size="80" font-weight="bold" fill="url(#linearGradient-1)">
+                <tspan x="48" y="159">404</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

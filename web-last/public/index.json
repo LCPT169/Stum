@@ -1,0 +1,13 @@
+{
+  "taskNumber": 10,
+  "taskNotRunning": 5,
+  "taskRunning": 3,
+  "taskCompromised": 2,
+  "taskCompleted": 4,
+  "storageSpace": 601986875,
+  "storageSpaceUsed": 1806062,
+  "storageSpaceUnUsed": 3701928,
+  "memorySpace": 601986875,
+  "memorySpaceUsed": 1806062,
+  "memorySpaceUnUsed": 3701928
+}
